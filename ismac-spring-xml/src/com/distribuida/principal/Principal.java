@@ -45,7 +45,7 @@ public class Principal {
 		cliente.setCorreo("alberto@productos.com");
 		
 		cliente2.setIdCliente(2);
-		cliente2.setCedula("1283712832");
+		cliente2.setCedula("128371283");
 		cliente2.setNombre("Luis");
 		cliente2.setApellido("Sanchez");
 		cliente2.setEdad(22);
