@@ -61,7 +61,7 @@ public class Principal {
 		cliente3.setEdad(22);
 		cliente3.setFechaNacimiento(new Date());
 		cliente3.setDireccion("Manabi");
-		cliente3.setTelefono("02983908123");
+		cliente3.setTelefono("0298390812");
 		cliente3.setCorreo("juan@productos.com");
 		
 		factura.setIdFactura(1);
